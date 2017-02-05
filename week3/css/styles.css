@@ -65,7 +65,7 @@ body {
 
 #home-tiles h1 {
 	top: 0;
-	margin-top: initial;	
+	margin-top: 10px;	
 }
 
 #chicken-tile, #beef-tile, #sushi-tile {
