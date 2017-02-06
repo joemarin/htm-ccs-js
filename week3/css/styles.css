@@ -47,11 +47,12 @@ body {
 }
 
 #nav-list a {
-	text-align: center;
+	text-align: center;	
 }
 
 #nav-list a:hover {
 	font-size: 1.8em;
+	background: #fff59d;	
 }
 
 .navbar-header button.navbar-toogle, .navbar-header .icon-bar {
